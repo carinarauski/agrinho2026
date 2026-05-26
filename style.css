@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+    color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    margin: 0;
+}
+button{
+    background-color: bisque;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
